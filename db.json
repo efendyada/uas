@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "nama": "Deemas",
+      "alamat": "Banyuwangi",
+      "email": "deemasdee@gmail.com",
+      "telpon": "08123456789",
+      "id": 1
+    },
+    {
+      "nama": "Tomi Luwis",
+      "alamat": "Majapahit",
+      "email": "tomiunyu@gmail.com",
+      "telpon": "083321456987",
+      "id": 3
+    },
+    {
+      "nama": "Candra Tokteng",
+      "alamat": "Banyuwangi Timur",
+      "email": "candracaem@gmail.com",
+      "telpon": "081321456987",
+      "id": 4
+    },
+    {
+      "nama": "marzuki",
+      "alamat": "tukangkayu",
+      "email": "marzuki@gmail.com",
+      "telpon": "4654462",
+      "id": 5
+    }
+  ]
+}
